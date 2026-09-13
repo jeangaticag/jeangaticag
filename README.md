@@ -23,6 +23,7 @@ El código de esos sistemas es privado porque pertenece a los clientes. Lo que p
 
 - **[claude-code-en-produccion](https://github.com/jeangaticag/claude-code-en-produccion)** — reglas, plantilla de contexto y checklist para operar un agente de codificación sobre sistemas en uso.
 - **[pdf-a-datos](https://github.com/jeangaticag/pdf-a-datos)** — extrae filas estructuradas de un PDF con Gemini y verifica que la extracción esté completa cuadrando totales.
+  **[agente-inventario](https://github.com/jeangaticag/agente-inventario)** — un agente con herramientas sobre un inventario de ejemplo: el bucle, los guardarraíles y los límites.
 
 ### Contacto
 
